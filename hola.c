@@ -2,6 +2,7 @@
 	git clone ...
 	git config --global user.email "you@example.com"
 	git config --global user.name "Your Name"
+ 	git config --global push.default simple
 	
 despues para subir:
 	git add (nombre del archivo) o git add . (para todos) 	//agrega
