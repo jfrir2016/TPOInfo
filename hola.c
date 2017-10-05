@@ -5,7 +5,7 @@
 	
 despues para subir:
 	git add (nombre del archivo) o git add . (para todos) 	//agrega
-	git commit -m "(mensaje)" 				//crea el commit
+	git commit -m (mensaje) 				//crea el commit
 	git push						//sube el commit a la nube
 		(ingresar usuario y contra) 
 /*
